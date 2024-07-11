@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yoana Ivanova</h1>
 <h3 align="center">A passionate QA Automation Engineer from Bulgaria</h3>
 
-- 🔭 I’m currently studying **Back-End Technologies**
+- 🔭 I have knowledge about **Back-End Technologies**, **Front-End Technologies**
 
-- 🌱 I’m currently learning **NUnit, XUnit, Integration Testing**
+- 🌱 I can do **NUnit, XUnit, JUnit**
 
 - 🤝 I’m looking for help with **finding a job**
 
