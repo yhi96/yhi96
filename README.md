@@ -5,11 +5,11 @@
 
 - 🌱 I can do **NUnit, XUnit, JUnit**
 
-- 🤝 I’m looking for help with **finding a job**
+- 🤝 I’m looking for **a job**
 
-- 👨‍💻 All of my projects are available at [InProcess](InProcess)
+- 👨‍💻 All of my projects are available in **My Repositories**
 
-- 💬 Ask me about **C#, Testing techniques**
+- 💬 Ask me about **Testing**
 
 - 📫 How to reach me **yhimod@gmail.com**
 
