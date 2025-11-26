@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yoana Ivanova</h1>
 <h3 align="center">Good QA Engineers aren’t made by years — they’re made by mindset.</h3>
-<h3 align="right">– QA with passion 💥</h3>
+<h4 align="right">– QA with passion 💥</h4>
 
 - 💻 Playwright with TypeScript, Selenium WebDriver + C# + NUnit
 - 🌐 RestSharp, Postman
@@ -13,7 +13,6 @@
   https://www.linkedin.com/in/yoanaiv
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Programming & Test Automation -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
