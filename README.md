@@ -27,14 +27,8 @@
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
   </a>
-  <a href="https://nunit.org/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/N/nunit-logo-4C1144ED37-seeklogo.com.png" alt="nunit" width="40" height="40"/>
-  </a>
   
   <!-- API & Web Tools -->
-  <a href="https://restsharp.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/restsharp/RestSharp/main/logo/restsharp-logo.png" alt="restsharp" width="40" height="40"/>
-  </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
@@ -50,15 +44,6 @@
   <!-- DevOps & Tools -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/A/azure-devops-logo-34D60ADFD0-seeklogo.com.png" alt="azure devops" width="40" height="40"/>
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/J/jira-logo-F6B4E1B79E-seeklogo.com.png" alt="jira" width="40" height="40"/>
-  </a>
-  <a href="https://www.testrail.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.gurock.com/images/logo-testrail.svg" alt="testrail" width="40" height="40"/>
   </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
