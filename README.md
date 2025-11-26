@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yoana Ivanova</h1>
-<h3 align="center">A passionate QA Automation Engineer from Bulgaria</h3>
+<h3 align="center">Good QA Engineers aren’t made by years — they’re made by mindset.</h3>
+<h3 align="left">– QA with passion 💥</h3>
 
-- 🔭 I have knowledge about **Back-End Technologies**, **Front-End Technologies**
-
-- 🌱 I can do **NUnit, XUnit, JUnit**
-
-- 🤝 I’m looking for **a job**
-
-- 👨‍💻 All of my projects are available in **My Repositories**
-
-- 💬 Ask me about **Testing**
-
+- 💻 Playwright with TypeScript, Selenium WebDriver + C# + NUnit
+- 🌐 RestSharp, Postman
+- 🔗 My projects are available in **My Repositories**
 - 📫 How to reach me **yhimod@gmail.com**
-
-- 📄 Know about my experiences [InProgress](InProgress)
+- ⚙️ Azure DevOps, Jira, TestRail, MySQL, MongoDB, GitBash, Docker, Grafana, Clarity, Adyen (mock payments)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
